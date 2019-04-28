@@ -1,0 +1,7 @@
+4
+5
+house	black	blue	green	red
+name	Daniel	Joshua	Nicholas	Ryan
+movie	action	comedy	horror	thriller
+snack	chips	cookies	crackers	popcorn
+age	11	12	13	14
