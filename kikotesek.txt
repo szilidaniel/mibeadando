@@ -1,0 +1,13 @@
+O	name	Joshua
+SL	shirt	black	age	11
+L	name	Joshua	movie	horror
+P	age	14	3
+B	age	12	shirt	green	movie	action
+L	name	Daniel	movie	thriller
+O	snack	cookies
+EL	shirt	black	movie	thriller
+ER	snack	crackers	movie comedy
+B	shirt	red	snack	popcorn	name	Nicholas
+O	movie	thriller
+B	name Nicholas	name	Joshua	name	Daniel
+P	shirt	green	1
